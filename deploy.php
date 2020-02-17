@@ -11,8 +11,8 @@ if ($signature) {
 		// sign sucess
 		set_time_limit(3 * 60); //最大过期时间3分钟
 
-		$cmd = "cd $shellPath && sudo git pull && sudo hexo clean && sudo hexo d -g";
-		$res = $this->doShell($cmd);
+		$cmd = "cd $shellPath && sudo git pull  && hexo d -g";
+		$res = shell_exec($cmd);
 		print_r($res); // 主要打印结果给github记录查看，自己测试时查看
 	}
 }
