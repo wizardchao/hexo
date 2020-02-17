@@ -7,3 +7,5 @@ top: 1001
 
 > 环境为web钩子
 > 此为第一篇，介绍github webhooks
+
+## 安装
