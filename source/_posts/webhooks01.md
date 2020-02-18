@@ -5,7 +5,7 @@ tags: webhooks
 top: 1001
 ---
 
-> 环境为web钩子
+> 内容为web钩子的配置
 > 此为第一篇，介绍github webhooks
 
  <!-- more -->
@@ -15,5 +15,5 @@ top: 1001
 
 ## payloadUrl
 ## 	参考链接
-1. https://segmentfault.com/a/1190000016071010
+
 
