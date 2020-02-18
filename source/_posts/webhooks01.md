@@ -1,5 +1,5 @@
 ---
-title: webhooks配置(一)
+title: webhooks配置
 date: 2020-02-18 00:04:08
 tags: webhooks
 top: 1001
@@ -15,6 +15,5 @@ top: 1001
 
 ## payloadUrl
 ## 	参考链接
-
-
+1. https://segmentfault.com/a/1190000016071010
 
