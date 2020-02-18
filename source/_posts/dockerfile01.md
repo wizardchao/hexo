@@ -1,11 +1,11 @@
 ---
-title: php7 dockerfile制作
+title: php7dockerfile制作
 date: 2020-02-18 23:07:47
-tags:vdocker
+tags: docker
 top: 1002
 ---
 
-> 本文将接受php7.4在apache下的搭建工作及dockerfile编写
+> 本文将介绍php7.4在apache下的搭建工作及dockerfile编写
 
  <!-- more -->
 
