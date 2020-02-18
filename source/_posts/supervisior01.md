@@ -1,5 +1,5 @@
 ---
-title: supervisior介绍
+title: supervisor介绍
 date: 2020-02-18 23:31:48
 tags: supervisor
 top: 1003
