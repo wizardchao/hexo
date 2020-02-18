@@ -16,5 +16,4 @@ top: 1001
 ## payloadUrl
 ## 	参考链接
 1. https://segmentfault.com/a/1190000016071010
-2. https://qq52o.me/2482.html
-3. https://segmentfault.com/a/1190000016071010
+
