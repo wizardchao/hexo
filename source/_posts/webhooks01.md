@@ -5,7 +5,7 @@ tags: webhooks
 top: 1001
 ---
 
-> 内容为web钩子的配置
+> 内容为web钩子的配置及使用方法
 > 此为第一篇，介绍github webhooks
 
  <!-- more -->
